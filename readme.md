@@ -4,6 +4,14 @@
 
 This steganography tool allows you to hide text data within the color channels of an image. The hidden text can be later extracted using appropriate techniques. This can be useful for various applications, including watermarking, secret messages, or simply embedding information in an image.
 
+## Usage
+
+Run the tool from the command line with the following syntax:
+
+```bash
+$ python3 image_hiding_tool.py input_image.png flag_image.png output_image.png
+```
+
 ## How It Works
 
 1. **Input Image**: Provide the path to the input image (`input_image.png`) that you want to hide text in.
@@ -21,9 +29,3 @@ This steganography tool allows you to hide text data within the color channels o
 
 6. **Output**: The resulting image is saved as `output_image.png`, and it contains the hidden text.
 
-## Usage
-
-Run the tool from the command line with the following syntax:
-
-```bash
-python image_hiding_tool.py input_image.png flag_image.png output_image.png
