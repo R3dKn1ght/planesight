@@ -9,7 +9,7 @@ This steganography tool allows you to hide text data within the color channels o
 Run the tool from the command line with the following syntax:
 
 ```bash
-$ python3 image_hiding_tool.py input_image.png flag_image.png output_image.png
+$ python3 planesight.py <input_image.png> <flag_image.png> [output_image.png]
 ```
 
 ## How It Works
