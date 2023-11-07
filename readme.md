@@ -1,8 +1,8 @@
-# Image Text Hiding Tool
+# Planesight
 
 ## Description
 
-This tool allows you to hide text data within the color channels of an image. The hidden text can be later extracted using appropriate techniques. This can be useful for various applications, including watermarking, secret messages, or simply embedding information in an image.
+This steganography tool allows you to hide text data within the color channels of an image. The hidden text can be later extracted using appropriate techniques. This can be useful for various applications, including watermarking, secret messages, or simply embedding information in an image.
 
 ## How It Works
 
